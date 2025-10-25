@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Artpls
-- 👀 I am interested in the crypto sphere and everything connected with it
-- 🌱 I'm currently studying at the university
-- 💞️ I invite you to cooperate...
-- 📫 How to contact me @crypsis_eth twtr
+# Artpls — Ethereum Smart Contract Developer
 
-<!---
-Artpls/Artpls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi — I'm Artyom, a smart contract developer focused on Ethereum and EVM-compatible chains.  
+I design, implement and audit Solidity contracts, with experience in token standards (ERC-20/721/1155), on-chain tooling and gas optimization.
+
+## Skills
+- Solidity (>=0.8.x)
+- Hardhat / Foundry (preferred: Hardhat in examples)
+- ethers.js / web3.js
+- Unit testing (Mocha / Chai)
+- Basic auditing & security patterns (reentrancy guard, access control)
+- Familiar with rollups and Layer-2s (e.g., Base, Optimism, Arbitrum)
+
+## Example
+This repo contains a minimal ERC-20 token example, a deploy script (Hardhat) and a unit test.
+
+## Contact
+- Telegram / Email / GitHub: @Artpls
