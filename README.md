@@ -1,4 +1,4 @@
-# Artpls — Ethereum Smart Contract Developer
+# Artpls — Ethereum and Solana Smart Contract Developer
 
 Hi — I'm Artyom, a smart contract developer focused on Ethereum and EVM-compatible chains.  
 I design, implement and audit Solidity contracts, with experience in token standards (ERC-20/721/1155), on-chain tooling and gas optimization.
