@@ -15,4 +15,5 @@ I design, implement and audit Solidity contracts, with experience in token stand
 This repo contains a minimal ERC-20 token example, a deploy script (Hardhat) and a unit test.
 
 ## Contact
-- Telegram / Email / GitHub: @Artpls
+GitHub: @Artpls
+X - @satstake_btc
